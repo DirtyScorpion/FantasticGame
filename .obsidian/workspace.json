@@ -218,10 +218,11 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "573376c3e95b881e",
+  "active": "a21a7894ae3a3ea4",
   "lastOpenFiles": [
-    "Чек листы.md",
+    "conflict-files-obsidian-git.md",
     "Идеи/Лор.md",
+    "Чек листы.md",
     "Идеи",
     "Супер-пупер крутая игра Desert.md",
     "Справка по использованию Git.md",
@@ -252,7 +253,6 @@
     "copilot-custom-prompts/Make longer.md",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot-custom-prompts/Remove URLs.md",
     "copilot-custom-prompts"
   ]
 }
