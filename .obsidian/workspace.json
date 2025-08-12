@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "52a52fd904d4d4ce",
+        "id": "f5abd2a7712c9002",
         "type": "tabs",
         "children": [
           {
-            "id": "b033dd315ccb834a",
+            "id": "d71ad13ed3fb23a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -157,6 +157,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "7330992aa5240fe5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
         "currentTab": 4
@@ -176,11 +186,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b033dd315ccb834a",
+  "active": "d71ad13ed3fb23a7",
   "lastOpenFiles": [
     "Супер-пупер крутая игра Desert.md",
-    "Welcome.md",
     "Справка по использованию Git.md",
+    "Untitled.md",
+    "Welcome.md",
     "conflict-files-obsidian-git.md"
   ]
 }
