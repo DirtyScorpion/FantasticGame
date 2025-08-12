@@ -11,17 +11,14 @@
             "id": "75d9e4bd48e0288b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Главная доска.canvas",
-                "viewState": {
-                  "x": 206.57635385354916,
-                  "y": -68.27376116220393,
-                  "zoom": -1
-                }
+                "file": "Супер-пупер крутая игра Desert.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Главная доска"
+              "icon": "lucide-file",
+              "title": "Супер-пупер крутая игра Desert"
             }
           }
         ]
@@ -206,16 +203,16 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "75d9e4bd48e0288b",
+  "active": "5093744dd8ca90e4",
   "lastOpenFiles": [
-    "AlbedoBase_XL_SteamPunk_building_from_desert_3.jpg",
+    "Справка по использованию Git.md",
     "Идея для структуры.md",
+    "Главная доска.canvas",
+    "AlbedoBase_XL_SteamPunk_building_from_desert_3.jpg",
     "Resources/AlbedoBase_XL_SteamPunk_building_from_desert_3.jpg",
     "Супер-пупер крутая игра Desert.md",
-    "Справка по использованию Git.md",
     "Текущие задачи.md",
     "Untitled Kanban.md",
-    "Главная доска.canvas",
     "Templates/default/simplify.md",
     "Templates/Simplify.md",
     "Templates/default/getEmailPos.md",
