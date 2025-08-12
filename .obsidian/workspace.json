@@ -25,14 +25,17 @@
             "id": "a21a7894ae3a3ea4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Чек листы.md",
-                "mode": "source",
-                "source": false
+                "file": "Главная доска.canvas",
+                "viewState": {
+                  "x": 220,
+                  "y": -259.2565956660851,
+                  "zoom": -0.6666666666666666
+                }
               },
-              "icon": "lucide-file",
-              "title": "Чек листы"
+              "icon": "lucide-layout-dashboard",
+              "title": "Главная доска"
             }
           },
           {
@@ -234,16 +237,18 @@
   },
   "active": "a21a7894ae3a3ea4",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Чек листы.md",
+    "Resources/AlbedoBase_XL_SteamPunk_building_from_desert_3 1.jpg",
+    "Desert Game/Концепция/Визуал/Вид города.md",
+    "Desert Game/Концепция/Фракции/Культ Атлантов.md",
     "Идеи/Лор.md",
+    "Чек листы.md",
+    "conflict-files-obsidian-git.md",
     "Супер-пупер крутая игра Desert.md",
     "Текущие задачи.md",
     "Справка по использованию Git.md",
     "Главная доска.canvas",
     "Идея для структуры.md",
     "Resources/AlbedoBase_XL_SteamPunk_building_from_desert_3.jpg",
-    "Resources/AlbedoBase_XL_SteamPunk_building_from_desert_3 1.jpg",
     "Desert Game/Концепция/Фракции/Дети Пламени.md",
     "Desert Game/Концепция/Визуал",
     "Desert Game/Концепция/Сеттинг",
@@ -269,8 +274,6 @@
     "Templates/default/summarizeLarge.md",
     "Templates/default/rewrite.md",
     "copilot-custom-prompts/Simplify.md",
-    "copilot-custom-prompts/Summarize.md",
-    "copilot-custom-prompts/Simplify 1.md",
-    "copilot-custom-prompts/Make longer.md"
+    "copilot-custom-prompts/Summarize.md"
   ]
 }

@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"a02888a7404f56af","type":"group","x":-240,"y":-360,"width":400,"height":400,"label":"Untitled group"},
-		{"id":"434d671d8b509576","x":280,"y":-340,"width":400,"height":400,"type":"file","file":"AlbedoBase_XL_SteamPunk_building_from_desert_3.jpg"},
+		{"id":"434d671d8b509576","type":"file","file":"Resources/AlbedoBase_XL_SteamPunk_building_from_desert_3 1.jpg","x":280,"y":-340,"width":400,"height":400},
 		{"id":"749ff0bbf60adb53","type":"text","text":"hfjfjhgh","x":-220,"y":-340,"width":250,"height":60}
 	],
 	"edges":[
