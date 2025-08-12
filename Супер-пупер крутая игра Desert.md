@@ -1,3 +1,4 @@
+https://docs.google.com/document/d/11wrXitdascQy3s9tL68ASEk_Ti75flFSrCuNBt1YTxo/edit?usp=sharing
 meeeeeeeeeeooooooooooow
 
 - **Ранняя игра**: Температура +50°C… +60°C – люди ещё могут ненадолго выходить на поверхность за ресурсами.
