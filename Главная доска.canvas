@@ -1,7 +1,10 @@
 {
 	"nodes":[
-		{"id":"a02888a7404f56af","x":-240,"y":-360,"width":400,"height":400,"type":"group","label":"Untitled group"},
-		{"id":"749ff0bbf60adb53","x":-220,"y":-340,"width":250,"height":60,"type":"text","text":"hfjfjhgh"}
+		{"id":"a02888a7404f56af","type":"group","x":-240,"y":-360,"width":400,"height":400,"label":"Untitled group"},
+		{"id":"434d671d8b509576","x":280,"y":-340,"width":400,"height":400,"type":"file","file":"AlbedoBase_XL_SteamPunk_building_from_desert_3.jpg"},
+		{"id":"749ff0bbf60adb53","type":"text","text":"hfjfjhgh","x":-220,"y":-340,"width":250,"height":60}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"9b761c6a38ad0a71","fromNode":"a02888a7404f56af","fromSide":"top","toNode":"434d671d8b509576","toSide":"top"}
+	]
 }

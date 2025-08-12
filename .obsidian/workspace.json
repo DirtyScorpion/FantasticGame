@@ -11,14 +11,17 @@
             "id": "75d9e4bd48e0288b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Идея для структуры.md",
-                "mode": "source",
-                "source": false
+                "file": "Главная доска.canvas",
+                "viewState": {
+                  "x": 206.57635385354916,
+                  "y": -68.27376116220393,
+                  "zoom": -1
+                }
               },
-              "icon": "lucide-file",
-              "title": "Идея для структуры"
+              "icon": "lucide-layout-dashboard",
+              "title": "Главная доска"
             }
           }
         ]
@@ -203,10 +206,12 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "5093744dd8ca90e4",
+  "active": "75d9e4bd48e0288b",
   "lastOpenFiles": [
-    "Супер-пупер крутая игра Desert.md",
+    "AlbedoBase_XL_SteamPunk_building_from_desert_3.jpg",
     "Идея для структуры.md",
+    "Resources/AlbedoBase_XL_SteamPunk_building_from_desert_3.jpg",
+    "Супер-пупер крутая игра Desert.md",
     "Справка по использованию Git.md",
     "Текущие задачи.md",
     "Untitled Kanban.md",
