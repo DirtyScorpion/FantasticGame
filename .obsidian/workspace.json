@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Супер-пупер крутая игра Desert.md",
+                "file": "Чек листы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Супер-пупер крутая игра Desert"
+              "title": "Чек листы"
             }
           }
         ]
@@ -203,14 +203,16 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "5093744dd8ca90e4",
+  "active": "75d9e4bd48e0288b",
   "lastOpenFiles": [
+    "Супер-пупер крутая игра Desert.md",
+    "Чек листы.md",
+    "Untitled",
     "Справка по использованию Git.md",
     "Идея для структуры.md",
     "Главная доска.canvas",
     "AlbedoBase_XL_SteamPunk_building_from_desert_3.jpg",
     "Resources/AlbedoBase_XL_SteamPunk_building_from_desert_3.jpg",
-    "Супер-пупер крутая игра Desert.md",
     "Текущие задачи.md",
     "Untitled Kanban.md",
     "Templates/default/simplify.md",
