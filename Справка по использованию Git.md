@@ -54,7 +54,7 @@ git add conflicted_file.md
 git commit
 ```
 ## 🆘 **Экстренные случаи**
-### Сброс до состояния origin/main:
+### Сброс Локальных изменений:
 ```bash
 git fetch origin
 git reset --hard origin/main

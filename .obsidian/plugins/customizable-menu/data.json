@@ -1,0 +1,10 @@
+{
+  "menuCommands": [
+    {
+      "id": "obsidian-textgenerator-plugin:calculate-tokens-for-template",
+      "name": "Text Generator: Estimate tokens for a Template",
+      "icon": "layout"
+    }
+  ],
+  "hideTitles": []
+}
