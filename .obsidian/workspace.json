@@ -25,17 +25,14 @@
             "id": "a21a7894ae3a3ea4",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Главная доска.canvas",
-                "viewState": {
-                  "x": 220,
-                  "y": -259.2565956660851,
-                  "zoom": -0.6666666666666666
-                }
+                "file": "Desert Game/Геймплей/Механики/Шкалы жителей.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Главная доска"
+              "icon": "lucide-file",
+              "title": "Шкалы жителей"
             }
           },
           {
@@ -237,6 +234,8 @@
   },
   "active": "a21a7894ae3a3ea4",
   "lastOpenFiles": [
+    "Главная доска.canvas",
+    "Desert Game/Геймплей/Механики/Шкалы жителей.md",
     "Resources/AlbedoBase_XL_SteamPunk_building_from_desert_3 1.jpg",
     "Desert Game/Концепция/Визуал/Вид города.md",
     "Desert Game/Концепция/Фракции/Культ Атлантов.md",
@@ -246,7 +245,6 @@
     "Супер-пупер крутая игра Desert.md",
     "Текущие задачи.md",
     "Справка по использованию Git.md",
-    "Главная доска.canvas",
     "Идея для структуры.md",
     "Resources/AlbedoBase_XL_SteamPunk_building_from_desert_3.jpg",
     "Desert Game/Концепция/Фракции/Дети Пламени.md",
@@ -273,7 +271,6 @@
     "Templates/default/getEmailNeg.md",
     "Templates/default/summarizeLarge.md",
     "Templates/default/rewrite.md",
-    "copilot-custom-prompts/Simplify.md",
-    "copilot-custom-prompts/Summarize.md"
+    "copilot-custom-prompts/Simplify.md"
   ]
 }
