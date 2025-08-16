@@ -4,49 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "ebcf9464173fd955",
+        "id": "f5abd2a7712c9002",
         "type": "tabs",
         "children": [
           {
-            "id": "75d9e4bd48e0288b",
+            "id": "d71ad13ed3fb23a7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Чек листы.md",
-                "mode": "source",
-                "source": false
+                "file": "Главная доска.canvas",
+                "viewState": {
+                  "x": 267.00728711220415,
+                  "y": -222.18567442375314,
+                  "zoom": -0.7918080788850783
+                }
               },
-              "icon": "lucide-file",
-              "title": "Чек листы"
+              "icon": "lucide-layout-dashboard",
+              "title": "Главная доска"
             }
           },
           {
-            "id": "a21a7894ae3a3ea4",
+            "id": "d7580d04f08fb62b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desert Game/Геймплей/Механики/Шкалы жителей.md",
+                "file": "Desert Game/Геймплей/Механики/Ресурсы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Шкалы жителей"
-            }
-          },
-          {
-            "id": "f96f32061c47db3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Идеи/Лор.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Лор"
+              "title": "Ресурсы"
             }
           }
         ],
@@ -188,23 +177,13 @@
             }
           },
           {
-            "id": "b12102c125ff45b0",
+            "id": "7330992aa5240fe5",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {},
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
-            }
-          },
-          {
-            "id": "3e0bce50e4c46d58",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
             }
           }
         ],
@@ -216,6 +195,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
+      "dashboard-navigator:Open dashboard navigator": false,
+      "callout-manager:Insert Callout": false,
+      "copilot:Open Copilot Chat": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -223,54 +208,36 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-kanban:Create new board": false,
-      "dashboard-navigator:Open dashboard navigator": false,
-      "callout-manager:Insert Callout": false,
-      "copilot:Open Copilot Chat": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a21a7894ae3a3ea4",
+  "active": "d7580d04f08fb62b",
   "lastOpenFiles": [
-    "Главная доска.canvas",
     "Desert Game/Геймплей/Механики/Шкалы жителей.md",
-    "Resources/AlbedoBase_XL_SteamPunk_building_from_desert_3 1.jpg",
-    "Desert Game/Концепция/Визуал/Вид города.md",
-    "Desert Game/Концепция/Фракции/Культ Атлантов.md",
+    "Desert Game/Геймплей/Механики/Ресурсы.md",
     "Идеи/Лор.md",
-    "Чек листы.md",
+    "Идея для структуры.md",
+    "Справка по использованию Git.md",
     "conflict-files-obsidian-git.md",
     "Супер-пупер крутая игра Desert.md",
-    "Текущие задачи.md",
-    "Справка по использованию Git.md",
-    "Идея для структуры.md",
-    "Resources/AlbedoBase_XL_SteamPunk_building_from_desert_3.jpg",
-    "Desert Game/Концепция/Фракции/Дети Пламени.md",
-    "Desert Game/Концепция/Визуал",
-    "Desert Game/Концепция/Сеттинг",
-    "Desert Game/Концепция/Фракции",
-    "Desert Game/Геймплей/Персонажи",
-    "Desert Game/Геймплей/Механики/Untitled",
     "Desert Game/Геймплей/Механики",
     "Desert Game/Геймплей",
-    "Desert Game/Лор",
+    "Resources/AlbedoBase_XL_SteamPunk_building_from_desert_3 1.jpg",
+    "Desert Game/Концепция/Фракции/Культ Атлантов.md",
+    "Desert Game/Концепция/Фракции/Дети Пламени.md",
+    "Desert Game/Концепция/Фракции",
+    "Desert Game/Концепция/Визуал/Вид города.md",
+    "Desert Game/Концепция/Визуал",
     "Desert Game/Концепция",
     "Desert Game",
-    "Untitled Kanban.md",
-    "Templates/default/simplify.md",
-    "Templates/Simplify.md",
-    "Templates/default/getEmailPos.md",
-    "Templates/default/getTags.md",
-    "Templates/default/getOutline.md",
-    "Templates/default/getParagraph.md",
-    "Templates/default/getTitles.md",
-    "Templates/default/getIdeas.md",
-    "Templates/default/summarize.md",
-    "Templates/default/getEmailNeg.md",
-    "Templates/default/summarizeLarge.md",
-    "Templates/default/rewrite.md",
-    "copilot-custom-prompts/Simplify.md"
+    "Идеи",
+    "Текущие задачи.md",
+    "Чек листы.md",
+    "Главная доска.canvas",
+    "Resources/AlbedoBase_XL_SteamPunk_building_from_desert_3.jpg",
+    "Resources",
+    "AlbedoBase_XL_SteamPunk_building_from_desert_3.jpg",
+    "Untitled.md",
+    "Welcome.md"
   ]
 }
