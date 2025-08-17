@@ -1,59 +1,41 @@
 {
   "main": {
-    "id": "e2a4bfc56c645188",
+    "id": "491e98764a1e019f",
     "type": "split",
     "children": [
       {
-        "id": "f5abd2a7712c9002",
+        "id": "50dc98151b12e6f1",
         "type": "tabs",
         "children": [
           {
-            "id": "d71ad13ed3fb23a7",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Главная доска.canvas",
-                "viewState": {
-                  "x": 267.00728711220415,
-                  "y": -222.18567442375314,
-                  "zoom": -0.7918080788850783
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Главная доска"
-            }
-          },
-          {
-            "id": "d7580d04f08fb62b",
+            "id": "70022d707cae1b90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desert Game/Геймплей/Механики/Ресурсы.md",
+                "file": "Desert Game/Концепция/Визуал/Вид города.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ресурсы"
+              "title": "Вид города"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "cb645fe4dfe16885",
+    "id": "130d59bcd4a90dae",
     "type": "split",
     "children": [
       {
-        "id": "5c1801fb56cedbbe",
+        "id": "707b47a4274bb085",
         "type": "tabs",
         "children": [
           {
-            "id": "573376c3e95b881e",
+            "id": "6363c767fd4988a0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -62,16 +44,16 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
-            "id": "39bf02c53a90eb40",
+            "id": "d04c54a7b2c1d315",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#хуй",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,17 +61,17 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Поиск"
             }
           },
           {
-            "id": "665fe7d40144a3e7",
+            "id": "e9147f0f7c2594bb",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Закладки"
             }
           }
         ]
@@ -99,19 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "5eefef6c301b6ef1",
+    "id": "88e3d1f50ba177bc",
     "type": "split",
     "children": [
       {
-        "id": "57a00572384cbb19",
+        "id": "9f3b0125851b4987",
         "type": "tabs",
         "children": [
           {
-            "id": "c933d5e539042cad",
+            "id": "d88b9359a79e1f24",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Desert Game/Концепция/Визуал/Вид города.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,24 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Обратные ссылки для Вид города"
             }
           },
           {
-            "id": "dc67fe5d20a1e4b1",
+            "id": "2691613c0f2b799d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Desert Game/Концепция/Визуал/Вид города.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Исходящие ссылки из Вид города"
             }
           },
           {
-            "id": "b0d7643338855d79",
+            "id": "f6ced94e0628c7d4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -149,41 +133,32 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Теги"
             }
           },
           {
-            "id": "323b8cc63a457edc",
+            "id": "306eddf1b95b1024",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Desert Game/Концепция/Визуал/Вид города.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Структура Вид города"
             }
           },
           {
-            "id": "5093744dd8ca90e4",
+            "id": "93bbc3ccefbbb67d",
             "type": "leaf",
             "state": {
               "type": "git-view",
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
-            }
-          },
-          {
-            "id": "7330992aa5240fe5",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
             }
           }
         ],
@@ -195,49 +170,39 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "omnisearch:Omnisearch": false,
-      "dashboard-navigator:Open dashboard navigator": false,
-      "callout-manager:Insert Callout": false,
-      "copilot:Open Copilot Chat": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d7580d04f08fb62b",
+  "active": "70022d707cae1b90",
   "lastOpenFiles": [
-    "Desert Game/Геймплей/Механики/Шкалы жителей.md",
-    "Desert Game/Геймплей/Механики/Ресурсы.md",
-    "Идеи/Лор.md",
     "Идея для структуры.md",
-    "Справка по использованию Git.md",
-    "conflict-files-obsidian-git.md",
+    "Лидер.md",
+    "Desert Game/Геймплей/Механики/Ресурсы.md",
+    "Главная доска.canvas",
+    "Добро пожаловать.md",
+    "Чек листы.md",
+    "Текущие задачи.md",
     "Супер-пупер крутая игра Desert.md",
-    "Desert Game/Геймплей/Механики",
-    "Desert Game/Геймплей",
+    "Справка по использованию Git.md",
+    "Идеи/Лор.md",
+    "Идеи",
     "Resources/AlbedoBase_XL_SteamPunk_building_from_desert_3 1.jpg",
+    "Resources",
     "Desert Game/Концепция/Фракции/Культ Атлантов.md",
     "Desert Game/Концепция/Фракции/Дети Пламени.md",
-    "Desert Game/Концепция/Фракции",
     "Desert Game/Концепция/Визуал/Вид города.md",
+    "Desert Game/Геймплей/Механики/Шкалы жителей.md",
+    "Desert Game/Концепция/Фракции",
     "Desert Game/Концепция/Визуал",
+    "Desert Game/Геймплей/Механики",
     "Desert Game/Концепция",
-    "Desert Game",
-    "Идеи",
-    "Текущие задачи.md",
-    "Чек листы.md",
-    "Главная доска.canvas",
-    "Resources/AlbedoBase_XL_SteamPunk_building_from_desert_3.jpg",
-    "Resources",
-    "AlbedoBase_XL_SteamPunk_building_from_desert_3.jpg",
-    "Untitled.md",
-    "Welcome.md"
+    "Desert Game/Геймплей",
+    "Desert Game"
   ]
 }
