@@ -1,38 +1,24 @@
 {
   "main": {
-    "id": "e2a4bfc56c645188",
+    "id": "491e98764a1e019f",
     "type": "split",
     "children": [
       {
-        "id": "ebcf9464173fd955",
+        "id": "5e1982b9e65312de",
         "type": "tabs",
         "children": [
           {
-            "id": "75d9e4bd48e0288b",
+            "id": "1b7021215a76a103",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desert Game/Геймплей/Оборона/Вооружение/Вооружение.md",
+                "file": "Desert Game/Геймплей/Оборона/Вооружение/Паровое ружьё.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Вооружение"
-            }
-          },
-          {
-            "id": "f96f32061c47db3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Идеи/Лор.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Лор"
+              "title": "Паровое ружьё"
             }
           }
         ]
@@ -41,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "cb645fe4dfe16885",
+    "id": "130d59bcd4a90dae",
     "type": "split",
     "children": [
       {
-        "id": "5c1801fb56cedbbe",
+        "id": "707b47a4274bb085",
         "type": "tabs",
         "children": [
           {
-            "id": "573376c3e95b881e",
+            "id": "6363c767fd4988a0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -58,16 +44,16 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
-            "id": "39bf02c53a90eb40",
+            "id": "d04c54a7b2c1d315",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#хуй",
+                "query": "tag:#стиль",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,39 +61,41 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Поиск"
             }
           },
           {
-            "id": "665fe7d40144a3e7",
+            "id": "e9147f0f7c2594bb",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "5eefef6c301b6ef1",
+    "id": "88e3d1f50ba177bc",
     "type": "split",
     "children": [
       {
-        "id": "57a00572384cbb19",
+        "id": "9f3b0125851b4987",
         "type": "tabs",
         "children": [
           {
-            "id": "c933d5e539042cad",
+            "id": "d88b9359a79e1f24",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Desert Game/Геймплей/Оборона/Вооружение/Паровое ружьё.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,24 +105,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Обратные ссылки для Паровое ружьё"
             }
           },
           {
-            "id": "dc67fe5d20a1e4b1",
+            "id": "2691613c0f2b799d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Desert Game/Геймплей/Оборона/Вооружение/Паровое ружьё.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Исходящие ссылки из Паровое ружьё"
             }
           },
           {
-            "id": "b0d7643338855d79",
+            "id": "f6ced94e0628c7d4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,51 +134,32 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Теги"
             }
           },
           {
-            "id": "323b8cc63a457edc",
+            "id": "306eddf1b95b1024",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Desert Game/Геймплей/Оборона/Вооружение/Паровое ружьё.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Структура Паровое ружьё"
             }
           },
           {
-            "id": "5093744dd8ca90e4",
+            "id": "93bbc3ccefbbb67d",
             "type": "leaf",
             "state": {
               "type": "git-view",
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
-            }
-          },
-          {
-            "id": "b12102c125ff45b0",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "3e0bce50e4c46d58",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
             }
           }
         ],
@@ -201,62 +171,45 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-kanban:Create new board": false,
-      "dashboard-navigator:Open dashboard navigator": false,
-      "callout-manager:Insert Callout": false,
-      "copilot:Open Copilot Chat": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "75d9e4bd48e0288b",
+  "active": "1b7021215a76a103",
   "lastOpenFiles": [
-    "Desert Game/Геймплей/Оборона/Вооружение/Паровая мортира.md",
     "Desert Game/Геймплей/Оборона/Вооружение/Вооружение.md",
     "Desert Game/Геймплей/Оборона/Вооружение/Паровое ружьё.md",
-    "Чек листы.md",
     "Паровое ружье.md",
-    "Desert Game/Геймплей/Механики/Шкалы жителей.md",
-    "conflict-files-obsidian-git.md",
-    "Лидер.md",
+    "Desert Game/Геймплей/Оборона/Вооружение/Паровая мортира.md",
     "Desert Game/Геймплей/Оборона/Вооружение",
+    "Desert Game/Геймплей/Механики/Шкалы жителей.md",
     "Desert Game/Геймплей/Оборона",
-    "Desert Game/Геймплей/Механики/Ресурсы.md",
     "Справка по использованию Git.md",
-    "Супер-пупер крутая игра Desert.md",
-    "Текущие задачи.md",
-    "Главная доска.canvas",
-    "Resources/AlbedoBase_XL_SteamPunk_building_from_desert_3 1.jpg",
     "Desert Game/Концепция/Визуал/Вид города.md",
-    "Desert Game/Концепция/Фракции/Культ Атлантов.md",
-    "Идеи/Лор.md",
     "Идея для структуры.md",
-    "Resources/AlbedoBase_XL_SteamPunk_building_from_desert_3.jpg",
+    "Лидер.md",
+    "Desert Game/Геймплей/Механики/Ресурсы.md",
+    "Главная доска.canvas",
+    "Добро пожаловать.md",
+    "Чек листы.md",
+    "Текущие задачи.md",
+    "Супер-пупер крутая игра Desert.md",
+    "Идеи/Лор.md",
+    "Идеи",
+    "Resources/AlbedoBase_XL_SteamPunk_building_from_desert_3 1.jpg",
+    "Resources",
+    "Desert Game/Концепция/Фракции/Культ Атлантов.md",
     "Desert Game/Концепция/Фракции/Дети Пламени.md",
-    "Desert Game/Концепция/Визуал",
-    "Desert Game/Концепция/Сеттинг",
     "Desert Game/Концепция/Фракции",
-    "Desert Game/Геймплей/Персонажи",
-    "Desert Game/Геймплей/Механики/Untitled",
+    "Desert Game/Концепция/Визуал",
     "Desert Game/Геймплей/Механики",
+    "Desert Game/Концепция",
     "Desert Game/Геймплей",
-    "Desert Game/Лор",
-    "Untitled Kanban.md",
-    "Templates/default/simplify.md",
-    "Templates/Simplify.md",
-    "Templates/default/getEmailPos.md",
-    "Templates/default/getTags.md",
-    "Templates/default/getOutline.md",
-    "Templates/default/getParagraph.md",
-    "Templates/default/getTitles.md",
-    "Templates/default/getIdeas.md"
+    "Desert Game"
   ]
 }
