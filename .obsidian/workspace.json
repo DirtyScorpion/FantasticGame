@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desert Game/Геймплей/Оборона/Вооружение/Паровая мортира.md",
+                "file": "Desert Game/Геймплей/Оборона/Вооружение/Паровое ружьё.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Паровая мортира"
+              "title": "Паровое ружьё"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desert Game/Геймплей/Оборона/Вооружение/Паровая мортира.md",
+                "file": "Desert Game/Геймплей/Оборона/Вооружение/Паровое ружьё.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Паровая мортира"
+              "title": "Обратные ссылки для Паровое ружьё"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desert Game/Геймплей/Оборона/Вооружение/Паровая мортира.md",
+                "file": "Desert Game/Геймплей/Оборона/Вооружение/Паровое ружьё.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Паровая мортира"
+              "title": "Исходящие ссылки из Паровое ружьё"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desert Game/Геймплей/Оборона/Вооружение/Паровая мортира.md",
+                "file": "Desert Game/Геймплей/Оборона/Вооружение/Паровое ружьё.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Паровая мортира"
+              "title": "Структура Паровое ружьё"
             }
           },
           {
@@ -181,9 +181,10 @@
   },
   "active": "1b7021215a76a103",
   "lastOpenFiles": [
+    "Desert Game/Геймплей/Оборона/Вооружение/Паровая мортира.md",
+    "Desert Game/Геймплей/Оборона/Вооружение/Паровое ружьё.md",
     "Desert Game/Геймплей/Оборона/Вооружение",
     "Desert Game/Геймплей/Механики/Шкалы жителей.md",
-    "Desert Game/Геймплей/Оборона/Вооружение/Паровая мортира.md",
     "Desert Game/Геймплей/Оборона",
     "Справка по использованию Git.md",
     "Desert Game/Концепция/Визуал/Вид города.md",
