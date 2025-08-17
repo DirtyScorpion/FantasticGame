@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5e1982b9e65312de",
+        "id": "42d17cc49a84650d",
         "type": "tabs",
         "children": [
           {
-            "id": "1b7021215a76a103",
+            "id": "c8bb681ab194ad5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#стиль",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,10 +179,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1b7021215a76a103",
+  "active": "c8bb681ab194ad5f",
   "lastOpenFiles": [
     "Desert Game/Геймплей/Оборона/Вооружение/Вооружение.md",
     "Desert Game/Геймплей/Оборона/Вооружение/Паровое ружьё.md",
+    "Идея для структуры.md",
     "Паровое ружье.md",
     "Desert Game/Геймплей/Оборона/Вооружение/Паровая мортира.md",
     "Desert Game/Геймплей/Оборона/Вооружение",
@@ -191,7 +191,6 @@
     "Desert Game/Геймплей/Оборона",
     "Справка по использованию Git.md",
     "Desert Game/Концепция/Визуал/Вид города.md",
-    "Идея для структуры.md",
     "Лидер.md",
     "Desert Game/Геймплей/Механики/Ресурсы.md",
     "Главная доска.canvas",
