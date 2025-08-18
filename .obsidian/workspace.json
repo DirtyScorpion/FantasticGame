@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desert Game/Геймплей/Оборона/Вооружение/Паровое ружьё.md",
+                "file": "Desert Game/Геймплей/Оборона/Вооружение/Паровой миномёт.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Паровое ружьё"
+              "title": "Паровой миномёт"
             }
           }
         ]
@@ -160,6 +160,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "dd987787a44f2902",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
         "currentTab": 4
@@ -170,6 +180,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
+      "obsidian-kanban:Создать новую доску": false,
+      "dashboard-navigator:Open dashboard navigator": false,
+      "callout-manager:Insert Callout": false,
+      "copilot:Open Copilot Chat": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -181,11 +198,11 @@
   },
   "active": "c8bb681ab194ad5f",
   "lastOpenFiles": [
-    "Desert Game/Геймплей/Оборона/Вооружение/Вооружение.md",
     "Desert Game/Геймплей/Оборона/Вооружение/Паровое ружьё.md",
+    "Desert Game/Геймплей/Оборона/Вооружение/Паровой миномёт.md",
+    "Desert Game/Геймплей/Оборона/Вооружение/Вооружение.md",
     "Идея для структуры.md",
     "Паровое ружье.md",
-    "Desert Game/Геймплей/Оборона/Вооружение/Паровая мортира.md",
     "Desert Game/Геймплей/Оборона/Вооружение",
     "Desert Game/Геймплей/Механики/Шкалы жителей.md",
     "Desert Game/Геймплей/Оборона",
