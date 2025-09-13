@@ -1,4 +1,3 @@
-package djyava;
 
 import java.util.*;
 
@@ -152,7 +151,7 @@ class Engineers extends Fraction {
     }
 }
 
-public class Comparablee {
+public class IntComparable {
     public static void main(String[] args) {
         
         System.out.println("ИСХОДНЫЙ СПИСОК ФРАКЦИЙ \n");
@@ -188,4 +187,5 @@ public class Comparablee {
         
      
     }
+
 }
