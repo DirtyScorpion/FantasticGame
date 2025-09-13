@@ -83,16 +83,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desert Game/Питч документ.md",
+                "file": "Desert Game/Концепция/Фракции/Дети Пламени.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Питч документ"
+              "title": "Дети Пламени"
+            }
+          },
+          {
+            "id": "3cf9ece788db6037",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desert Game/Геймплей/Механики/Ресурсы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ресурсы"
+            }
+          },
+          {
+            "id": "e610f014943fd73f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Идея для структуры.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Идея для структуры"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -259,6 +287,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -275,32 +304,34 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "573376c3e95b881e",
+  "active": "e610f014943fd73f",
   "lastOpenFiles": [
-    "Desert Game/Геймплей/Оборона/Вооружение/Паровой миномёт.md",
+    "Супер-пупер крутая игра Desert.md",
+    "Desert Game/Лор/Лор.md",
+    "Desert Game/Геймплей/Механики/Лояльность фракций.md",
+    "Desert Game/Геймплей/Механики/Цели города.md",
+    "Desert Game/Геймплей/Механики/Ресурсы.md",
+    "Desert Game/Концепция/Фракции/Дети Пламени.md",
+    "Desert Game/Концепция/Фракции/Культ Атлантов.md",
+    "Справка по использованию Git.md",
+    "Чек листы.md",
+    "Текущие задачи.md",
+    "Паровое ружье.md",
+    "Лидер.md",
+    "Идея для структуры.md",
     "Desert Game/Питч документ.md",
     "Desert Game/Геймплей/Оборона/Вооружение/Паровое ружьё.md",
+    "Desert Game/Геймплей/Оборона/Вооружение/Паровой миномёт.md",
     "conflict-files-obsidian-git.md",
-    "Идеи/Лор.md",
     "Desert Game/Геймплей/Оборона/Вооружение/Паровая мортира.md",
     "Desert Game/Геймплей/Оборона/Вооружение/Вооружение.md",
-    "Чек листы.md",
-    "Паровое ружье.md",
     "Desert Game/Геймплей/Механики/Шкалы жителей.md",
-    "Лидер.md",
     "Desert Game/Геймплей/Оборона/Вооружение",
     "Desert Game/Геймплей/Оборона",
-    "Desert Game/Геймплей/Механики/Ресурсы.md",
-    "Справка по использованию Git.md",
-    "Супер-пупер крутая игра Desert.md",
-    "Текущие задачи.md",
     "Главная доска.canvas",
     "Resources/AlbedoBase_XL_SteamPunk_building_from_desert_3 1.jpg",
     "Desert Game/Концепция/Визуал/Вид города.md",
-    "Desert Game/Концепция/Фракции/Культ Атлантов.md",
-    "Идея для структуры.md",
     "Resources/AlbedoBase_XL_SteamPunk_building_from_desert_3.jpg",
-    "Desert Game/Концепция/Фракции/Дети Пламени.md",
     "Desert Game/Концепция/Визуал",
     "Desert Game/Концепция/Сеттинг",
     "Desert Game/Концепция/Фракции",
@@ -313,8 +344,6 @@
     "Templates/default/simplify.md",
     "Templates/Simplify.md",
     "Templates/default/getEmailPos.md",
-    "Templates/default/getTags.md",
-    "Templates/default/getOutline.md",
-    "Templates/default/getParagraph.md"
+    "Templates/default/getTags.md"
   ]
 }
