@@ -304,8 +304,10 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "e610f014943fd73f",
+  "active": "573376c3e95b881e",
   "lastOpenFiles": [
+    "Desert Game/Питч документ.md",
+    "Desert Game/Питч документ.md",
     "Идея для структуры.md",
     "Текущие задачи.md",
     "Супер-пупер крутая игра Desert.md",
@@ -319,7 +321,6 @@
     "Desert Game/Концепция/Фракции/Культ Атлантов.md",
     "Паровое ружье.md",
     "Лидер.md",
-    "Desert Game/Питч документ.md",
     "Desert Game/Геймплей/Оборона/Вооружение/Паровое ружьё.md",
     "Desert Game/Геймплей/Оборона/Вооружение/Паровой миномёт.md",
     "conflict-files-obsidian-git.md",
@@ -343,7 +344,6 @@
     "Untitled Kanban.md",
     "Templates/default/simplify.md",
     "Templates/Simplify.md",
-    "Templates/default/getEmailPos.md",
-    "Templates/default/getTags.md"
+    "Templates/default/getEmailPos.md"
   ]
 }
