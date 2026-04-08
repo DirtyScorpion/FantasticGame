@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desert Game/Питч документ.md",
+                "file": "Desert Game/Геймплей/Механики/Радиация.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Питч документ"
+              "title": "Радиация"
             }
           }
         ],
@@ -304,13 +304,14 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "fec8e4c4b6fe6760",
+  "active": "e610f014943fd73f",
   "lastOpenFiles": [
+    "Desert Game/Геймплей/Механики/Строительство.md",
+    "Desert Game/Геймплей/Механики/Радиация.md",
+    "Desert Game/Питч документ.md",
     "Идеи/лояльность.txt",
     "Идеи/IntComparable.java",
     "Desert Game/Концепция/Фракции/Инженеры",
-    "Desert Game/Питч документ.md",
-    "Desert Game/Питч документ.md",
     "Идея для структуры.md",
     "Текущие задачи.md",
     "Супер-пупер крутая игра Desert.md",
@@ -341,7 +342,6 @@
     "Desert Game/Концепция/Фракции",
     "Desert Game/Геймплей/Персонажи",
     "Desert Game/Геймплей/Механики/Untitled",
-    "Desert Game/Геймплей/Механики",
     "Untitled Kanban.md",
     "Templates/default/simplify.md",
     "Templates/Simplify.md"
