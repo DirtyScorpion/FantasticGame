@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Идея для структуры.md",
+                "file": "Desert Game/Питч документ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Идея для структуры"
+              "title": "Питч документ"
             }
           }
         ],
@@ -143,7 +143,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -287,13 +287,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
       "obsidian-kanban:Create new board": false,
@@ -306,19 +306,19 @@
   },
   "active": "e610f014943fd73f",
   "lastOpenFiles": [
+    "Идея для структуры.md",
+    "Текущие задачи.md",
     "Супер-пупер крутая игра Desert.md",
-    "Desert Game/Лор/Лор.md",
+    "Справка по использованию Git.md",
+    "Чек листы.md",
     "Desert Game/Геймплей/Механики/Лояльность фракций.md",
     "Desert Game/Геймплей/Механики/Цели города.md",
+    "Desert Game/Лор/Лор.md",
     "Desert Game/Геймплей/Механики/Ресурсы.md",
     "Desert Game/Концепция/Фракции/Дети Пламени.md",
     "Desert Game/Концепция/Фракции/Культ Атлантов.md",
-    "Справка по использованию Git.md",
-    "Чек листы.md",
-    "Текущие задачи.md",
     "Паровое ружье.md",
     "Лидер.md",
-    "Идея для структуры.md",
     "Desert Game/Питч документ.md",
     "Desert Game/Геймплей/Оборона/Вооружение/Паровое ружьё.md",
     "Desert Game/Геймплей/Оборона/Вооружение/Паровой миномёт.md",
