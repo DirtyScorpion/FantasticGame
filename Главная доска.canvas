@@ -1,8 +1,10 @@
 {
 	"nodes":[
-		{"id":"a02888a7404f56af","type":"group","x":-240,"y":-360,"width":400,"height":400,"label":"Untitled group"},
-		{"id":"434d671d8b509576","type":"file","file":"Resources/AlbedoBase_XL_SteamPunk_building_from_desert_3 1.jpg","x":280,"y":-340,"width":400,"height":400},
-		{"id":"749ff0bbf60adb53","type":"text","text":"hfjfjhgh","x":-220,"y":-340,"width":250,"height":60}
+		{"id":"2aae0e3b0fb1abdd","type":"group","x":-349,"y":-1362,"width":2469,"height":2362,"label":"Концепт Арты"},
+		{"id":"a02888a7404f56af","type":"group","x":-280,"y":-1222,"width":1320,"height":2022,"label":"Главная база"},
+		{"id":"7724a7978135b71e","type":"file","file":"gemini-3.1-flash-image-preview (nano-banana-2)_a_Несколько_гексагонов.png","x":-240,"y":-1191,"width":1200,"height":655},
+		{"id":"459c364f36587bcf","type":"file","file":"gemini-3.1-flash-image-preview (nano-banana-2)_a_Убери_людей_снаружи.png","x":-206,"y":-400,"width":1133,"height":618},
+		{"id":"434d671d8b509576","type":"file","file":"Resources/AlbedoBase_XL_SteamPunk_building_from_desert_3 1.jpg","x":1120,"y":-1191,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"9b761c6a38ad0a71","fromNode":"a02888a7404f56af","fromSide":"top","toNode":"434d671d8b509576","toSide":"top"}
